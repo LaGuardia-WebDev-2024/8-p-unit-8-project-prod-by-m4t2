@@ -4,19 +4,31 @@
 }
 
 body {
-  background-color: aliceblue;
+  background-image: url(https://seaviewinfo.com/wp-content/uploads/2018/07/SeaScape.jpg);
   text-align: center;
   color: navy;
   margin: auto;
   font-family: water;
 }
 
+img{
+  border: 5px solid white;
+  background-size: 600px 400px;
+  border-radius: 50px;
+}
+
+h2{
+  font-size:20px;
+  color: DarkSlateGray;
+  
+}
+
 h1{
-  font-size: 30px;
+  font-size: 40px;
 }
 
 #myCanvas {
-  background-image: url("https://seaviewinfo.com/wp-content/uploads/2018/07/SeaScape.jpg");
+  background-image: url("https://media.tenor.com/mtYKzFZrWW8AAAAM/monkey-sea-monkey.gif");
   background-size: 600px 400px;
   border-radius: 300px;
   border: 5px solid white;
